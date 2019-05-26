@@ -1,0 +1,23 @@
+
+@media (max-width: 767px) {
+  .location-list {
+    max-height: 30vh;
+    overflow: auto;
+    margin-bottom: 30px;
+  }
+}
+
+.forecast-title {
+  text-align: center; 
+  padding: 20px;
+}
+
+.location-list {
+  height: 100vh;
+  overflow: auto;
+}
+
+.details {
+  height: 100vh;
+  overflow: auto;
+}
